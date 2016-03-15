@@ -1,0 +1,12 @@
+C:\Code\Test\AppStarter\AppStarter\bin\Debug\AppStarter.exe.config
+C:\Code\Test\AppStarter\AppStarter\bin\Debug\AppStarter.exe
+C:\Code\Test\AppStarter\AppStarter\bin\Debug\AppStarter.pdb
+C:\Code\Test\AppStarter\AppStarter\obj\Debug\AppStarter.ConfigForm.resources
+C:\Code\Test\AppStarter\AppStarter\obj\Debug\AppStarter.MainForm.resources
+C:\Code\Test\AppStarter\AppStarter\obj\Debug\AppStarter.Properties.Resources.resources
+C:\Code\Test\AppStarter\AppStarter\obj\Debug\AppStarter.csproj.GenerateResource.Cache
+C:\Code\Test\AppStarter\AppStarter\obj\Debug\AppStarter.exe
+C:\Code\Test\AppStarter\AppStarter\obj\Debug\AppStarter.pdb
+C:\Code\Test\AppStarter\AppStarter\obj\Debug\AppStarter.Resource.resources
+C:\Code\Test\AppStarter\AppStarter\obj\Debug\AppStarter.csprojResolveAssemblyReference.cache
+C:\Code\Test\AppStarter\AppStarter\obj\Debug\AppStarter.ApplicationListForm.resources
