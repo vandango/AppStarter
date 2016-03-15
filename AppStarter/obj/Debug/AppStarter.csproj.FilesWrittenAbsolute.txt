@@ -1,0 +1,11 @@
+/Users/jnaumann/Projects/github/AppStarter/AppStarter/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jnaumann/Projects/github/AppStarter/AppStarter/obj/Debug/AppStarter.ApplicationListForm.resources
+/Users/jnaumann/Projects/github/AppStarter/AppStarter/obj/Debug/AppStarter.ConfigForm.resources
+/Users/jnaumann/Projects/github/AppStarter/AppStarter/obj/Debug/AppStarter.MainForm.resources
+/Users/jnaumann/Projects/github/AppStarter/AppStarter/obj/Debug/AppStarter.Properties.Resources.resources
+/Users/jnaumann/Projects/github/AppStarter/AppStarter/obj/Debug/AppStarter.Resource.resources
+/Users/jnaumann/Projects/github/AppStarter/AppStarter/bin/Debug/AppStarter.exe.config
+/Users/jnaumann/Projects/github/AppStarter/AppStarter/bin/Debug/AppStarter.exe.mdb
+/Users/jnaumann/Projects/github/AppStarter/AppStarter/bin/Debug/AppStarter.exe
+/Users/jnaumann/Projects/github/AppStarter/AppStarter/obj/Debug/AppStarter.exe
+/Users/jnaumann/Projects/github/AppStarter/AppStarter/obj/Debug/AppStarter.exe.mdb
