@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("AppStarter")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("MWS")]
+[assembly: AssemblyCompany("vandango")]
 [assembly: AssemblyProduct("AppStarter")]
-[assembly: AssemblyCopyright("Copyright © MWS 2015")]
+[assembly: AssemblyCopyright("Copyright © vandango 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
